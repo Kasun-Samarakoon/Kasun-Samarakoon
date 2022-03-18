@@ -21,6 +21,8 @@ Mobile Number =+94767538576
 📫 How to reach me: kasun10240@gmail.com ...
 
 
+Linkedin profile: https://www.linkedin.com/in/kasun-samarakoon/
+
 
 
 
