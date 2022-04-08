@@ -23,8 +23,8 @@ Mobile Number =+94767538576
 
 Linkedin profile: https://www.linkedin.com/in/kasun-samarakoon/
 
-
-
+Blog
+https://medium.com/@kasun10240
 
 
 ![coding](https://user-images.githubusercontent.com/86977908/159043594-925baedb-ad49-469f-84dc-fa8bb338ea22.gif)
