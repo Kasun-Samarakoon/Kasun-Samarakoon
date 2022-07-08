@@ -20,7 +20,7 @@
 
 
 👯 I’m looking to collaborate on coding ...
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 💬 Ask me about Web Development...
 
