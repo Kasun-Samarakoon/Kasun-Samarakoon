@@ -18,7 +18,7 @@
 
 
 👯 I’m looking to collaborate on coding ...
-
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/567523990538356835/">
 
 💬 Ask me about Web Development...
 
