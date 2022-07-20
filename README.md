@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kasun Samarakoon</h1>
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate backend developer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasun-samarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-samarakoon" /> </p>
 <p align="left"> <a href="https://twitter.com/kasun10240" target="blank"><img src="https://img.shields.io/twitter/follow/kasun10240?logo=twitter&style=for-the-badge" alt="kasun10240" /></a> </p>
 
