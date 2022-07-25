@@ -1,10 +1,10 @@
-[![MasterHead](https://www.parallels.com/blogs/app/uploads/2015/03/header_banner_newgifapple.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.parallels.com/blogs/app/uploads/2015/03/header_banner_newgifapple.gif)](https://github.com/Kasun-Samarakoon)
 
 <h1 align="center">Hi 👋, I'm Kasun Samarakoon</h1>
 
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Back+end+developer;I'm+a+competitive+programmer" /></a>
+  <a align="center" href="https://github.com/Kasun-Samarakoon"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Back+end+developer;I'm+a+competitive+programmer" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasun-samarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-samarakoon" /> </p>
