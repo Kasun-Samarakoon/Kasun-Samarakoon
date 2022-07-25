@@ -81,6 +81,8 @@ https://medium.com/@kasun10240
   
    <a href="https://github.com/Kasun-Samarakoon"><img alt="Kasun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kasun&custom_title=Kasun's%20Contribution%20Graph&theme=react-dark" /></a>
    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/Kasun-Samarakoon/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kasun-Samarakoon&layout=compact&theme=algolia" alt="kasun" /></a> </p>
@@ -95,9 +97,10 @@ https://medium.com/@kasun10240
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun&" alt="Kasun" /></p>
 <br/>
 [![Kasuns' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kasun-Samarakoon&custom_title=Kasun's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Kasun-Samarakoon) -->
-
+<p align="center">
 <img align="center" alt="Coding" width="100" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif">
-
+<br> Loading...😊
+</p>
 <br/>
 
 
