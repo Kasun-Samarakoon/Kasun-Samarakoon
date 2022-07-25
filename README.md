@@ -96,6 +96,8 @@ https://medium.com/@kasun10240
 <br/>
 [![Kasuns' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kasun-Samarakoon&custom_title=Kasun's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Kasun-Samarakoon) -->
 
+<img align="center" alt="Coding" width="100" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif">
+
 <br/>
 
 
