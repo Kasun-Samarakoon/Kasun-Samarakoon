@@ -77,6 +77,29 @@ https://medium.com/@kasun10240
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## ⚡ Recent GitHub Activity
+  
+   <a href="https://github.com/Kasun-Samarakoon"><img alt="Kasun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kasun&custom_title=Kasun's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/Kasun-Samarakoon/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kasun-Samarakoon&layout=compact&theme=algolia" alt="kasun" /></a> </p>
+
+<!--## My Statistics
+<a href="https://github.com/Kasun-Samarakoon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kasun&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasun&" alt="Kasun" /></p>
+<br/>
+[![Kasuns' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kasun-Samarakoon&custom_title=Kasun's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Kasun-Samarakoon) -->
+
+<br/>
+
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/Kasun-Samarakoon)
@@ -86,3 +109,6 @@ Credits: [Kasun Samarakoon](https://github.com/Kasun-Samarakoon)
 
 
 
+
+
+ 
