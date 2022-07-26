@@ -38,7 +38,7 @@
 👯 I’m looking to collaborate on coding ...
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-
+❤️ I love Creating websites.
 
 📱 Mobile Number =+94767538576
 
@@ -93,6 +93,9 @@ https://medium.com/@kasun10240
    <a href="https://github.com/Kasun-Samarakoon"><img alt="Kasun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kasun&custom_title=Kasun's%20Contribution%20Graph&theme=react-dark" /></a>
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
    
 ## :trophy: Git profile Trophies
 
@@ -113,6 +116,17 @@ https://medium.com/@kasun10240
 <br> Loading...😊
 </p>
 <br/>
+
+
+#### Popular Projects
+<a href="https://github.com/Kasun-Samarakoon/Kasun-Samarakoon">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=MrBlueBird2&theme=onedark" />
+</a>    
+<a href="https://github.com/Kasun-Samarakoon/portfolio-react">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=portfolio-react&theme=onedark"/>
+</a>
 
 
 #### I'm an Early 🐤
