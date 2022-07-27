@@ -12,7 +12,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasun-samarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-samarakoon" /> </p>
-<p align="left"> <a href="https://twitter.com/kasun10240" target="blank"><img src="https://img.shields.io/twitter/follow/kasun10240?logo=twitter&style=for-the-badge" alt="kasun10240" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Kasun_S1999" target="blank"><img src="https://img.shields.io/twitter/follow/Kasun_S1999?logo=twitter&style=for-the-badge" alt="Kasun_S1999" /></a> </p>
 
 
 
@@ -56,9 +56,9 @@ https://medium.com/@kasun10240
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;Connect with me: 🤝🏻 </h3>
 
 <p align="left">
-<a href="https://twitter.com/kasun10240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasun10240" height="30" width="40" /></a>
+<a href="https://twitter.com/Kasun_S1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasun10240" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kasun-samarakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasun-samarakoon" height="30" width="40" /></a>
-<a href="https://fb.com/kasun10240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasun10240" height="30" width="40" /></a>
+<a href="https://fb.com/kasun.samarakoon.1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasun10240" height="30" width="40" /></a>
 <a href="https://instagram.com/samarakoon_kasun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarakoon_kasun" height="30" width="40" /></a>
 </p>
 
