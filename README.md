@@ -40,7 +40,6 @@
 
 ❤️ I love Creating websites.
 
-📱 Mobile Number =+94767538576
 
 
 📫 How to reach me: kasun10240@gmail.com  /
