@@ -5,7 +5,9 @@
 
  <h1 align="center">Welcome to <a href="https://github.com/Kasun-Samarakoon">Kasun Samarakoon</a>'s Profile 👋</h1>
 
-
+<div  align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p align="center">
   <a align="center" href="https://github.com/Kasun-Samarakoon"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Full+stack+developer;I'm+a+competitive+programmer" /></a>
 </p>
@@ -58,6 +60,7 @@ I have contributed to industry-level projects, collaborating closely with cross-
 
 </br>
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+
 
 
 ## 💻 GitHub Profile Status
