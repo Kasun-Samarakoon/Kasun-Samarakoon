@@ -12,43 +12,34 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasun-samarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-samarakoon" /> </p>
-<p align="left"> <a href="https://twitter.com/Kasun_S1999" target="blank"><img src="https://img.shields.io/twitter/follow/Kasun_S1999?logo=twitter&style=for-the-badge" alt="Kasun_S1999" /></a> </p>
-
-
-
-![130056846-690d633c-0a3f-4c43-b5d0-12f67080ec90](https://user-images.githubusercontent.com/86977908/159043783-fd00f688-c113-4fc0-8b08-e11852e76752.jpg)
-
-
-
-
-
-🤔 &nbsp; Exploring new technologies and developing software solutions.
-
-
-🎓  Studying Information Technology Degree at University of Sri Lanka Institute of Information Technology.
-
-
-🌱 &nbsp; Learning more about Web Development, Mobile Development and UX/UI Design.
 
 
 
 
 
 
-👯 I’m looking to collaborate on coding ...
+
+
+
+
+🚀 About Me <br>
+I am a passionate and innovative Full Stack Software Engineer with expertise in the MERN stack, Spring Boot, and Cloud Services. I thrive on building scalable, high-performance web applications that deliver exceptional user experiences.
+
+I have contributed to industry-level projects, collaborating closely with cross-functional teams to design, develop, and deploy solutions that drive measurable value. I’m always exploring new technologies, embracing challenges, and looking for opportunities to contribute to impactful projects that make a difference.
+<hr>
+🛠 Tech Stack <br> 
+<ul>
+<li>Programming Languages: Java, JavaScript, C, C++, Python, PHP, SQL</li> <br>
+<li>Frontend: React.js, Next.js, HTML, CSS, Bootstrap, Tailwind CSS </li> <br>
+<li>Backend: Node.js, Express.js, Java (Spring Boot, Hibernate), .NET </li> <br>
+<li>Databases: MongoDB, MySQL, MariaDB, Firebase </li> <br>
+<li>Cloud & DevOps: AWS, Google Cloud, Docker, GitHub Actions </li> <br>
+<li>Tools & Other: Git, GitHub, Postman, Visual Studio Code, Eclipse, Jira, ClickUp </li> <br>
+</ul>
+<hr>
+
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-❤️ I love Creating websites.
-
-
-
-📫 How to reach me: kasun10240@gmail.com  /
-                     kasun.xcode@gmail.com ...
-
-
-
-Blog
-https://medium.com/@kasun10240
 
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
