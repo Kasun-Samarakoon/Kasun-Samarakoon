@@ -29,14 +29,15 @@ I have contributed to industry-level projects, collaborating closely with cross-
 <li>Cloud & DevOps: AWS, Google Cloud, Docker, GitHub Actions </li> <br>
 <li>Tools & Other: Git, GitHub, Postman, Visual Studio Code, Eclipse, Jira, ClickUp </li> <br>
 </ul>
-<hr>
-
-
-
-
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 <hr>
+
+
+
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <h3>📌 Work Experience </h3>
 <h4>Associate Full Stack Software Engineer </h4> 
 <h5><i>BiHelix Innovations (Pvt) Ltd (Jan 2023 - Apr 2024)</i> </h5>
@@ -56,7 +57,7 @@ I have contributed to industry-level projects, collaborating closely with cross-
 •	Acquired valuable teamwork skills through collaborative project development.<br><br>
 
 </br>
-
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 
 ## 💻 GitHub Profile Status
