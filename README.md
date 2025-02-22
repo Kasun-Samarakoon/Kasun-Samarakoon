@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a align="center" href="https://github.com/Kasun-Samarakoon"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Back+end+developer;I'm+a+competitive+programmer" /></a>
+  <a align="center" href="https://github.com/Kasun-Samarakoon"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;I'm+a+Full+stack+developer;I'm+a+competitive+programmer" /></a>
 </p>
 
 
