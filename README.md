@@ -13,10 +13,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasun-samarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-samarakoon" /> </p>
 
-<h3>🚀 About Me </h3> <br>
+<h3>🚀 About Me </h3> </br>
 I am a passionate and innovative Full Stack Software Engineer with expertise in the MERN stack, Spring Boot, and Cloud Services. I thrive on building scalable, high-performance web applications that deliver exceptional user experiences.
-
-I have contributed to industry-level projects, collaborating closely with cross-functional teams to design, develop, and deploy solutions that drive measurable value. I’m always exploring new technologies, embracing challenges, and looking for opportunities to contribute to impactful projects that make a difference.
+</br>
+I have contributed to industry-level projects, collaborating closely with cross-functional teams to design, develop, and deploy solutions that drive measurable value. I’m always exploring new technologies, embracing challenges, and looking for opportunities to contribute to impactful projects that make a difference.</br>
 <hr>
 
 <h3>🛠 Tech Stack</h3> <br> 
@@ -36,7 +36,7 @@ I have contributed to industry-level projects, collaborating closely with cross-
 
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
-
+<hr>
 <h3>📌 Work Experience </h3>
 <h4>Associate Full Stack Software Engineer </h4> 
 <h5><i>BiHelix Innovations (Pvt) Ltd (Jan 2023 - Apr 2024)</i> </h5>
