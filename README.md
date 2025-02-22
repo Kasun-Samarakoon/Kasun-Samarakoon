@@ -14,12 +14,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasun-samarakoon&label=Profile%20views&color=0e75b6&style=flat" alt="kasun-samarakoon" /> </p>
 
 <h3>🚀 About Me </h3> </br>
-I am a passionate and innovative Full Stack Software Engineer with expertise in the MERN stack, Spring Boot, and Cloud Services. I thrive on building scalable, high-performance web applications that deliver exceptional user experiences.
-</br>
+I am a passionate and innovative<b> Full Stack Software Engineer</b> with expertise in the <b> MERN stack, Spring Boot,</b> and <b>Cloud Services</b>. I thrive on building scalable, high-performance web applications that deliver exceptional user experiences.
+<br/> <br/>
 I have contributed to industry-level projects, collaborating closely with cross-functional teams to design, develop, and deploy solutions that drive measurable value. I’m always exploring new technologies, embracing challenges, and looking for opportunities to contribute to impactful projects that make a difference.</br>
 <hr>
 
-<h3>🛠 Tech Stack</h3> <br> 
+<h3>🛠 Tech Stack</h3>  
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <ul>
 <li>Programming Languages: Java, JavaScript, C, C++, Python, PHP, SQL</li> <br>
